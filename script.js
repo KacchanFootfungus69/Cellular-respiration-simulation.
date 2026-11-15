@@ -114,8 +114,6 @@ function nextStage() {
         showStage(currentStage + 1);
     }
 }
-    }
-}
 
 function resetSimulation() {
     showStage(0);
